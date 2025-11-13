@@ -2,6 +2,9 @@
 
 This project is a Smart Home Energy Saving application designed to optimize energy consumption in smart homes. It is built using a combination of machine learning models and generative AI, leveraging a multi-agent framework (Microsoft Agent Framework). This real-time industry project predicts energy usage and provides actionable insights to save energy.
 
+<img width="1300" height="594" alt="image" src="https://github.com/user-attachments/assets/d7e16fd9-7d0a-470d-b784-11dc9d90469e" />
+
+
 ## Setup Instructions
 
 ### 1. Create a Virtual Environment
