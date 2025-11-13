@@ -59,4 +59,6 @@ streamlit run streamlit_app.py
 
 ---
 
+Kaggle Dataset: https://www.kaggle.com/datasets/mexwell/smart-home-energy-consumption
+
 Once all the steps are completed, you can run the application and start optimizing your smart home energy usage!
