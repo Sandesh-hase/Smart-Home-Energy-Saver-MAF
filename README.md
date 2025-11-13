@@ -1,6 +1,6 @@
 # Smart Home Energy Saver
 
-This project is a Smart Home Energy Saving application designed to optimize energy consumption in smart homes. It uses machine learning models to predict energy usage and provides actionable insights to save energy.
+This project is a Smart Home Energy Saving application designed to optimize energy consumption in smart homes. It is built using a combination of machine learning models and generative AI, leveraging a multi-agent framework (Microsoft Agent Framework). This real-time industry project predicts energy usage and provides actionable insights to save energy.
 
 ## Setup Instructions
 
